@@ -8,4 +8,9 @@ class Helloword {
     public function text() {
         echo "Hello World is a simplest program" ;
     }
+    
+    public function getDeveloperName() {
+    
+        return "Supravat M" ;
+    }
 }
